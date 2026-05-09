@@ -1,0 +1,8 @@
+# note-mcp は独立した git リポジトリのため除外
+note-mcp/
+
+# Config Agent が実行時に生成するファイル群
+runtime/
+
+# macOS
+.DS_Store
